@@ -9,11 +9,14 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
-
+AND, NOR, XOR and NOT gates are connected throughout the inputs to the outputs. 
 ## How to test
 
-Explain how to use your project
+|input a and b| AND|||
+|1 1|1|||
+|0 0||||
+|             ||||
+|             ||||
 
 ## External hardware
 
